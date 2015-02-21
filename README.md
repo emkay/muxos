@@ -12,9 +12,16 @@ __THINGS WILL PROBABLY BREAK!!! CONTINUE AT YOUR OWN RISK!!!__
 
 `run.sh` will run qemu on the iso. you can run it in another emulator if you want.
 
+### First time
+
 ```bash
 ./prep.sh
 ./build.sh
 ./run.sh
 ```
 
+### Making Changes
+```bash
+./build.sh
+./run.sh
+```
