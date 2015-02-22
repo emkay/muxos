@@ -4,3 +4,6 @@ install: clean
 
 clean:
 	./clean.sh
+
+run:
+	./run.sh

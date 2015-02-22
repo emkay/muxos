@@ -1,5 +1,4 @@
 #!/bin/sh
 set -e
-. ./iso.sh
 
-qemu-system-$(./target-triplet-to-arch.sh $HOST) -cdrom muxos.iso
+qemu-system-i386 -cdrom muxos.iso
