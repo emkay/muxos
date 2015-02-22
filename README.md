@@ -15,11 +15,11 @@ __THINGS WILL PROBABLY BREAK!!! CONTINUE AT YOUR OWN RISK!!!__
 ```bash
 ./prep.sh
 make install
-./run.sh
+make run
 ```
 
 ### Making Changes
 ```bash
 make install
-./run.sh
+make run
 ```
